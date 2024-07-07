@@ -29,4 +29,12 @@ Scarey
 - Genç ve Yetişkin Oyun Severler (16-35 Yaş)
 - Görsel ve İşitsel Deneyimleri Seven Oyuncular
 - Hikaye ve Karakter Gelişimi Seven Oyuncular
-  
+
+<hr>
+
+# SPRINT 1
+
+- Sprint için puan değerlendirmesi 80 olarak belirlenmiştir.
+- Sprint puanlama sistemi: Proje boyunca 280 puanın tamamlanması gerekmektedir. Her task 10 puan olarak düşünülmüştür.
+- İlk sprint 80 diğer sprintler ise 100’er puan olarak değerlendirilmiştir.
+- Daily Scrum: Discord ve whatsapp üzerinden iletişim kurulmuştur.
