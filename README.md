@@ -38,3 +38,6 @@ Scarey
 - Sprint puanlama sistemi: Proje boyunca 280 puanın tamamlanması gerekmektedir. Her task 10 puan olarak düşünülmüştür.
 - İlk sprint 80 diğer sprintler ise 100’er puan olarak değerlendirilmiştir.
 - Daily Scrum: Discord ve whatsapp üzerinden iletişim kurulmuştur.
+
+<img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/Ekran_goruntusu_2024-07-07_135753.png" width="400" height="400">  <img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/Ekran_goruntusu_2024-07-07_141842.png" width="400" height="400">
+
