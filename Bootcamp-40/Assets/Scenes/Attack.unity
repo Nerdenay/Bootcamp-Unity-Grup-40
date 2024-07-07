@@ -382,11 +382,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad24ca3fb6a92124098617f185daa6f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  attackRange: 2
-  attackDamage: 10
-  enemyLayer:
-    m_Bits: 0
-  playerCamera: {fileID: 0}
 --- !u!114 &1022773808
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -399,11 +394,90 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6cf461d911422c40beb6e919c5e0b48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &1441136956 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2033055110962353314, guid: 02abdc19f195ac84391d9dd3b8d5e667, type: 3}
+  m_PrefabInstance: {fileID: 2095472958}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1561024716 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7523722494601242779, guid: 02abdc19f195ac84391d9dd3b8d5e667, type: 3}
   m_PrefabInstance: {fileID: 2095472958}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1561024720
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1441136956}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6cf461d911422c40beb6e919c5e0b48, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1561024721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1441136956}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60873b88e4ae87043803ad6caf878fb8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Meleeanimation: {fileID: 1561024722}
+--- !u!95 &1561024722
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1441136956}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 9bf86e8663af7dd418cc320cb4054cf3, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &1561024723
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1441136956}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e867befc9a06708498d59d278bf050e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 1561024722}
+  boolParameterName: Attack
+--- !u!114 &1561024724
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1441136956}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26449bba093e4da4cb8457e9329e37f9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 1561024722}
+  boolParameterName: Attack
 --- !u!1 &1614755613
 GameObject:
   m_ObjectHideFlags: 0
@@ -416,6 +490,7 @@ GameObject:
   - component: {fileID: 1614755616}
   - component: {fileID: 1614755615}
   - component: {fileID: 1614755614}
+  - component: {fileID: 1614755618}
   m_Layer: 0
   m_Name: Plane
   m_TagString: Untagged
@@ -510,6 +585,27 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &1614755618
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1614755613}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 2ee616b959de5b74ebbbb26ddfc4c464, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1632417163
 GameObject:
   m_ObjectHideFlags: 0
@@ -628,7 +724,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cb63b48554a7a64baba028048054d8a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 100
 --- !u!1 &1658849128
 GameObject:
   m_ObjectHideFlags: 0
@@ -733,7 +828,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2033055110962353314, guid: 02abdc19f195ac84391d9dd3b8d5e667, type: 3}
       propertyPath: m_Name
-      value: bayonet
+      value: "m\u0131zrak"
       objectReference: {fileID: 0}
     - target: {fileID: 7523722494601242779, guid: 02abdc19f195ac84391d9dd3b8d5e667, type: 3}
       propertyPath: m_LocalScale.x
@@ -786,7 +881,22 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 2033055110962353314, guid: 02abdc19f195ac84391d9dd3b8d5e667, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1561024720}
+    - targetCorrespondingSourceObject: {fileID: 2033055110962353314, guid: 02abdc19f195ac84391d9dd3b8d5e667, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1561024722}
+    - targetCorrespondingSourceObject: {fileID: 2033055110962353314, guid: 02abdc19f195ac84391d9dd3b8d5e667, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1561024721}
+    - targetCorrespondingSourceObject: {fileID: 2033055110962353314, guid: 02abdc19f195ac84391d9dd3b8d5e667, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1561024723}
+    - targetCorrespondingSourceObject: {fileID: 2033055110962353314, guid: 02abdc19f195ac84391d9dd3b8d5e667, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1561024724}
   m_SourcePrefab: {fileID: 100100000, guid: 02abdc19f195ac84391d9dd3b8d5e667, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:

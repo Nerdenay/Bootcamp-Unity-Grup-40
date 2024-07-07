@@ -358,6 +358,7 @@
 "Assets/MeleeWeaponTrail/Scripts/Interpolate.cs"
 "Assets/MeleeWeaponTrail/Scripts/MeleeWeaponTrail.cs"
 "Assets/Scripts/AttackScript.cs"
+"Assets/Scripts/Finalanimscript.cs"
 "Assets/Scripts/FPSController.cs"
 -langversion:9.0
 /deterministic
