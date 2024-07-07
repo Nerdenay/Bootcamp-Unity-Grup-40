@@ -9,20 +9,24 @@ Unity-40
 - Nazlı Melike Kurtoğlu - Developer
 - Muhammed Mustafa Öztekin - Developer
 
-#### Product Backlog
-
-
-
 #### Ürün İsmi
+Scarey
 
-
+#### Product Backlog
+[Backlog URL](https://miro.com/welcomeonboard/RVoybmJqUjdLYTVkU3dxaDJhTW5WanNwQmxSU3diam9sbEJMVlcwT0Y2ZVFWWXRJNzZZQVE5c2J6aXN6Mm54RnwzNDU4NzY0NTMwMjc0NDYyNjgxfDI=?share_link_id=15304426320)
 
 #### Ürün Açıklaması
-
+"Korkuluğun Benlik Arayışı," oyuncuları büyüleyici bir dünyada bir korkuluğun kendini bulma serüvenine davet eden, 3D platform, bulmaca ve aksiyon unsurlarını birleştiren bir macera oyunudur. Oyuncular, korkuluğun hayattaki amacını keşfetmek için zorlu ve fantastik bölgelerde yol alırken, düşmanlarla savaşacak, karmaşık bulmacaları çözecek ve zorlukların üstesinden gelecektir.
 
 
 #### Ürün Özellikleri
-
-
+- 3D
+- Aksiyon
+- Macera
+- Hikaye 
 
 #### Hedef Kitle
+- Genç ve Yetişkin Oyun Severler (16-35 Yaş)
+- Görsel ve İşitsel Deneyimleri Seven Oyuncular
+- Hikaye ve Karakter Gelişimi Seven Oyuncular
+  
