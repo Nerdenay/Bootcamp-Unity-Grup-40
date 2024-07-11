@@ -41,3 +41,24 @@ Scarey
 
 <img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/Ekran_goruntusu_2024-07-07_135753.png" width="400" height="400">  <img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/Ekran_goruntusu_2024-07-07_141842.png" width="400" height="400">
 
+<img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/12.png" width="600" height="400">  
+
+![Üründen görseller](https://i.imgur.com/uENVERA.gif)  ![2](https://i.imgur.com/Q622Umg.gif) 
+
+
+### Sprint Review
+- Oyun türü ve tasarımı hakkında oy birliği sağlanarak low poly, 3D paltform oyunu yapılmasına karar verilmiştir. Bu doğrultuda oyun mekanikleri, karakter ve sahne tasarımları üzerine çalışılmıştır.
+- Sprint Review Katılımcıları: Nebi Erdenay Çubukçu, Nur Akgür, Mustafa Ersin Şişman, Nazlı Melike Kurtoğlu, Muhammed Mustafa Öztekin
+- #### Sprint Retrospective:
+- Herkes takımdaki rolünden memnundur, herhangi bir değişiklik yapılmamıştır.
+- Toplantılar daha düzenli hale getirilecektir. 
+
+###### Toplantı örneği: 
+<img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/Ekran_Goruntusu_346.png" width="500" height="350">
+
+
+###### Sprint Notları: 
+Takımı tasarımcılar ve geliştiriciler olarak böldük, ama mantığımız şu şekilde tasarımcılar yoğun olarak tasarımla uğracaşak ama gerekirse geliştirici olarak görev alacak aynı şekilde de geliştiriciler bu görevi gerçekleştirecek.
+- Geliştiriciler: Nebi Erdenay Çubukçu,  Nazlı Melike Kurtoğlu,  Muhammed Mustafa Öztekin.
+- Tasarımcılar: Nur Akgür, Mustafa Ersin Şişman. 
+
