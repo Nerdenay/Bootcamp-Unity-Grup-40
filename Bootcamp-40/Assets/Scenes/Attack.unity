@@ -379,9 +379,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1022773800}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ad24ca3fb6a92124098617f185daa6f1, type: 3}
+  m_Script: {fileID: 11500000, guid: 1f5195d6eb73e4645aaa4efadf6a000c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  animator: {fileID: 1561024722}
+  boolParameterName: Attack
 --- !u!114 &1022773808
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -428,7 +430,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60873b88e4ae87043803ad6caf878fb8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Meleeanimation: {fileID: 1561024722}
 --- !u!95 &1561024722
 Animator:
   serializedVersion: 5
@@ -462,8 +463,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e867befc9a06708498d59d278bf050e6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animator: {fileID: 1561024722}
-  boolParameterName: Attack
 --- !u!114 &1561024724
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -476,8 +475,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26449bba093e4da4cb8457e9329e37f9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animator: {fileID: 1561024722}
-  boolParameterName: Attack
 --- !u!1 &1614755613
 GameObject:
   m_ObjectHideFlags: 0
