@@ -359,6 +359,7 @@
 "Assets/MeleeWeaponTrail/Scripts/MeleeWeaponTrail.cs"
 "Assets/Scripts/AttackScript.cs"
 "Assets/Scripts/FPSController.cs"
+"Assets/Scripts/Healthbar.cs"
 "Assets/Scripts/MeleeAttack.cs"
 -langversion:9.0
 /deterministic
