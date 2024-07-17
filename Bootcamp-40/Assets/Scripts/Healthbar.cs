@@ -6,6 +6,8 @@ using UnityEngine.UI;
 public class Healthbar : MonoBehaviour
 {
     public Slider slider;
+
+
     public void SetMaxHealth(int health)
     {
         slider.maxValue = health;

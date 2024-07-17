@@ -361,6 +361,7 @@
 "Assets/Scripts/FPSController.cs"
 "Assets/Scripts/Healthbar.cs"
 "Assets/Scripts/MeleeAttack.cs"
+"Assets/Scripts/PlayerHealth.cs"
 -langversion:9.0
 /deterministic
 /optimize+
