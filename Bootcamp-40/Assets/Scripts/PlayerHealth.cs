@@ -16,9 +16,9 @@ public class PlayerHealth : MonoBehaviour
     }
 
 
-    void Update()
+    void OnCollisionEnter(Collision collision)
     {
-        if (Input.GetKeyDown(KeyCode.X))
+        if (collision.gameObject.tag == "Engel")
         {
             TakeDamage(10);
         }
