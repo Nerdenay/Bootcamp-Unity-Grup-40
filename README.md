@@ -62,3 +62,9 @@ Takımı tasarımcılar ve geliştiriciler olarak böldük, ama mantığımız �
 - Geliştiriciler: Nebi Erdenay Çubukçu,  Nazlı Melike Kurtoğlu,  Muhammed Mustafa Öztekin.
 - Tasarımcılar: Nur Akgür, Mustafa Ersin Şişman. 
 
+<hr>
+
+# SPRINT 2
+
+- Sprint içinde tamamlanması düşünülen puan: 100 Puan
+- Daily Scrum: Discord ve whatsapp üzerinden iletişim kurulmaya devam etmiştir. Ekip üyeleri uygun oldukça toplantılar yapılmıştır. Görev dağılımlarıyla herkes kendine uygun bir şekilde bir çalışma düzeni oluşturmuştur. 
