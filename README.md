@@ -75,9 +75,9 @@ Takımı tasarımcılar ve geliştiriciler olarak böldük, ama mantığımız �
 <img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/M%C4%B1ro.png" style=width:400px;height:400px;>
 
 ###### Oyundan Görseller:
-<img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/main%20screen.png" style=width:400px;height:350px;> 
-<img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/seh%C4%B1r%20tasar%C4%B1m%C4%B1.png" style=width:400px;height:350px;>
-
+<img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/main%20screen.png" style=width:350px;height:300px;> 
+<img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/seh%C4%B1r%20tasar%C4%B1m%C4%B1.png" style=width:350px;height:300px;>
+<img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(357).png" style=width:350px;height:300px;>
 
 - Sprint Review:
   - Sprint 2 değerlendirildiğinde oyundaki bazı bölümlerin gözden geçirilmesi gerektiğine karar verilmiştir.
