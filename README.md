@@ -1,7 +1,7 @@
 ## Takım ismi 
-CREW CROWS[Unity-40]
-Takım logomuz: 
-
+- CREW CROWS[Unity-40]
+- Takım logomuz: 
+<img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/tak%C4%B1m%20g%C3%B6rseli.png" style=width:250px;height:250px;>
 
 ## Ürün ile bilgiler 
 #### Takım Üyeleri
@@ -70,3 +70,25 @@ Takımı tasarımcılar ve geliştiriciler olarak böldük, ama mantığımız �
 
 - Sprint içinde tamamlanması düşünülen puan: 100 Puan
 - Daily Scrum: Discord ve whatsapp üzerinden iletişim kurulmaya devam etmiştir. Ekip üyeleri uygun oldukça toplantılar yapılmıştır. Görev dağılımlarıyla herkes kendine uygun bir şekilde bir çalışma düzeni oluşturmuştur. 
+###### Sprint 2 Miro Update:
+
+<img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/M%C4%B1ro.png" style=width:400px;height:400px;>
+
+###### Oyundan Görseller:
+<img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/main%20screen.png" style=width:400px;height:350px;> 
+<img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/seh%C4%B1r%20tasar%C4%B1m%C4%B1.png" style=width:400px;height:350px;>
+
+
+- Sprint Review:
+  - Sprint 2 değerlendirildiğinde oyundaki bazı bölümlerin gözden geçirilmesi gerektiğine karar verilmiştir.
+  - Mekanikler ve AI üzerine kararlar alınmıştır.
+  - Sprint Review Katılımcıları: Nebi Erdenay Çubukçu, Nur Akgür, Mustafa Ersin Şişman, Nazlı Melike Kurtoğlu, Muhammed Mustafa Öztekin 
+
+- Sprint Retrospective: 
+  - Sprint içinde toplanan puan 70'tir.[Ekip üyelerinin yoğunluğu nedeniyle bazı hedefler ertelenmiştir.]
+  - Bölüm tasarımlarının bazılarının değişmesi üzerine kararlar alınmıştır. 
+  - Karakterin animasyonları ve mekanikleri entegre edilmek üzere hazırlanmıştır.
+  - Bir sonraki sprint için daha fazla toplantı ve uygulama gerektiğine karar verilmiştir.
+  - AI ve API işlemleri 3.Sprinte kalmıştır.
+  - Farklı branchlerdeki başarılı tüm ürünler conflictler halledilerek mergelenecektir. 
+
