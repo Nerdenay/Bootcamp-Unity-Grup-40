@@ -16,8 +16,7 @@ ModelImporter:
     optimizeGameObjects: 0
     removeConstantScaleCurves: 0
     motionNodeName: 
-    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
-      human bone 'Hips' not found\n"
+    rigImportErrors: 
     rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
@@ -25,7 +24,7 @@ ModelImporter:
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
     importConstraints: 0
-    animationCompression: 3
+    animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
@@ -83,87 +82,7 @@ ModelImporter:
   humanDescription:
     serializedVersion: 3
     human: []
-    skeleton:
-    - name: scareyv1.5(Clone)
-      parentName: 
-      position: {x: 0, y: 0, z: 0}
-      rotation: {x: 0, y: 0, z: 0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: Light
-      parentName: scareyv1.5(Clone)
-      position: {x: -5.198705, y: 5.903862, z: -1.005454}
-      rotation: {x: 0.52327543, y: -0.34203392, z: 0.72694236, w: 0.28416622}
-      scale: {x: 100.00001, y: 100, z: 100}
-    - name: Camera
-      parentName: scareyv1.5(Clone)
-      position: {x: -7.3588915, y: 4.958309, z: 6.925791}
-      rotation: {x: 0.09062847, y: 0.89379627, z: -0.20997298, w: 0.3857799}
-      scale: {x: 100, y: 100.00001, z: 99.99999}
-    - name: Cube.005
-      parentName: scareyv1.5(Clone)
-      position: {x: -0.026525252, y: 2.1654968, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 34.102516, y: 34.102516, z: 34.102516}
-    - name: Cube.007
-      parentName: scareyv1.5(Clone)
-      position: {x: -0.026525252, y: 2.1829867, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 34.46194, y: 34.46194, z: 34.46194}
-    - name: Cube.002
-      parentName: scareyv1.5(Clone)
-      position: {x: -0.26696953, y: 2.02771, z: 0.000000004065337}
-      rotation: {x: -0.70576376, y: -0.043560937, z: 0.04356093, w: 0.70576376}
-      scale: {x: 20.642052, y: 20.642052, z: 20.642052}
-    - name: Cylinder
-      parentName: scareyv1.5(Clone)
-      position: {x: -0.31147215, y: 2.1717725, z: 0.124703325}
-      rotation: {x: -0.43045932, y: -0.43045932, z: 0.5609855, w: 0.56098557}
-      scale: {x: 87.58983, y: 87.58983, z: 282.18597}
-    - name: Cylinder.001
-      parentName: scareyv1.5(Clone)
-      position: {x: -0.29475856, y: 2.1599584, z: -0.13324746}
-      rotation: {x: 0.5609856, y: 0.5609856, z: -0.4304593, w: -0.4304593}
-      scale: {x: 65.56979, y: 65.56979, z: 211.2446}
-    - name: Cylinder.002
-      parentName: scareyv1.5(Clone)
-      position: {x: -0.3305997, y: 2.1724863, z: 0.13488622}
-      rotation: {x: 0.11905562, y: 0.40641612, z: 0.9043168, w: -0.053505644}
-      scale: {x: 40.863934, y: 40.863934, z: 40.863934}
-    - name: Cylinder.003
-      parentName: scareyv1.5(Clone)
-      position: {x: -0.3305031, y: 2.172155, z: 0.13524677}
-      rotation: {x: 0.12201946, y: -0.35206896, z: 0.9268281, w: 0.046350922}
-      scale: {x: 40.863934, y: 40.863934, z: 40.863934}
-    - name: Cylinder.004
-      parentName: scareyv1.5(Clone)
-      position: {x: -0.31031868, y: 2.1598337, z: -0.14210583}
-      rotation: {x: -0.119055465, y: 0.40641603, z: 0.90431684, w: 0.053505715}
-      scale: {x: 29.05679, y: 29.056786, z: 29.056784}
-    - name: Cylinder.005
-      parentName: scareyv1.5(Clone)
-      position: {x: -0.3103874, y: 2.159598, z: -0.14184947}
-      rotation: {x: -0.12201896, y: -0.352069, z: 0.92682815, w: -0.046350576}
-      scale: {x: 29.056786, y: 29.05678, z: 29.056784}
-    - name: Cube.001
-      parentName: scareyv1.5(Clone)
-      position: {x: -0.027739806, y: 1.4899354, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 37.492424, y: 49.553665, z: 58.5996}
-    - name: Cube
-      parentName: scareyv1.5(Clone)
-      position: {x: -0.024194727, y: 2.6034377, z: -0.05006968}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 14.668171, y: 14.668171, z: 14.668171}
-    - name: Circle
-      parentName: scareyv1.5(Clone)
-      position: {x: -0.032062277, y: 1.8734094, z: 0.24544801}
-      rotation: {x: 0.50000006, y: 0.50000006, z: -0.49999997, w: -0.49999994}
-      scale: {x: 1.7566422, y: 2.6380918, z: 2.0816104}
-    - name: Flower01Plant
-      parentName: scareyv1.5(Clone)
-      position: {x: -0.10479726, y: 2.7889147, z: -0.1557179}
-      rotation: {x: 0.27888504, y: 0.61049336, z: 0.679624, w: -0.29602736}
-      scale: {x: 34.138428, y: 34.138428, z: 29.734587}
+    skeleton: []
     armTwist: 0.5
     foreArmTwist: 0.5
     upperLegTwist: 0.5
@@ -174,13 +93,13 @@ ModelImporter:
     globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
-    hasExtraRoot: 1
+    hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 1
+  avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   importBlendShapeDeformPercent: 1
   remapMaterialsIfMaterialImportModeIsNone: 0
