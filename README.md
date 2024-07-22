@@ -68,8 +68,12 @@ Takımı tasarımcılar ve geliştiriciler olarak böldük, ama mantığımız �
 
 # SPRINT 2
 
-- Sprint içinde tamamlanması düşünülen puan: 100 Puan [30 Desing 70 Develop olmak üzere]
+- Sprint içinde tamamlanması düşünülen puan: 100 Puan
+  - Puan tamamlama mantığı:
+    - 30 puan Design görevleri ve 70 puan Develop görevleri olarak tasarlanmıştır.
+
 - Daily Scrum: Discord ve whatsapp üzerinden iletişim kurulmaya devam etmiştir. Ekip üyeleri uygun oldukça toplantılar yapılmıştır. Görev dağılımlarıyla herkes kendine uygun bir şekilde bir çalışma düzeni oluşturmuştur. 
+
 ###### Sprint 2 Miro Update:
 
 <img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/M%C4%B1ro.png" style=width:400px;height:400px;>
