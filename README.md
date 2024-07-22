@@ -68,7 +68,7 @@ Takımı tasarımcılar ve geliştiriciler olarak böldük, ama mantığımız �
 
 # SPRINT 2
 
-- Sprint içinde tamamlanması düşünülen puan: 100 Puan
+- Sprint içinde tamamlanması düşünülen puan: 100 Puan [30 Desing 70 Develop olmak üzere]
 - Daily Scrum: Discord ve whatsapp üzerinden iletişim kurulmaya devam etmiştir. Ekip üyeleri uygun oldukça toplantılar yapılmıştır. Görev dağılımlarıyla herkes kendine uygun bir şekilde bir çalışma düzeni oluşturmuştur. 
 ###### Sprint 2 Miro Update:
 
@@ -85,10 +85,13 @@ Takımı tasarımcılar ve geliştiriciler olarak böldük, ama mantığımız �
   - Sprint Review Katılımcıları: Nebi Erdenay Çubukçu, Nur Akgür, Mustafa Ersin Şişman, Nazlı Melike Kurtoğlu, Muhammed Mustafa Öztekin 
 
 - Sprint Retrospective: 
-  - Sprint içinde toplanan puan 70'tir.[Ekip üyelerinin yoğunluğu nedeniyle bazı hedefler ertelenmiştir.]
+  - Sprint içinde toplanan puan 20 Design 50 Develop olmak üzere 70 puandır.[Bazı hedefler hala in progress aşamasına olduğu için 3.Sprinte ertelenmiştir.]
   - Bölüm tasarımlarının bazılarının değişmesi üzerine kararlar alınmıştır. 
   - Karakterin animasyonları ve mekanikleri entegre edilmek üzere hazırlanmıştır.
   - Bir sonraki sprint için daha fazla toplantı ve uygulama gerektiğine karar verilmiştir.
   - AI ve API işlemleri 3.Sprinte kalmıştır.
   - Farklı branchlerdeki başarılı tüm ürünler conflictler halledilerek mergelenecektir. 
 
+###### Sprint Notları:
+- Bu sprint sürecinde, ekip üyelerinin staj, KPSS ve benzeri durumlar nedeniyle yoğun olmaları sebebiyle çok verimli bir süreç geçmemiştir.
+- Görevler Miroya eklenmiştir oradaki ve eklenebilecek görevlere göre 3.Sprintte hepsinin tamamlanması için tüm ekip üyeleri hazırdır.
