@@ -3,7 +3,7 @@
 - Takım logomuz: 
 <img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/tak%C4%B1m%20g%C3%B6rseli.png" style=width:250px;height:250px;>
 
-## Ürün ile bilgiler 
+## Ürün Bilgileri
 #### Takım Üyeleri
 - Nebi Erdenay Çubukçu - Scrum Master
 - Nur Akgür - Product Owner
@@ -40,15 +40,21 @@ Scarey
 - Sprint puanlama sistemi: Proje boyunca 280 puanın tamamlanması gerekmektedir. Her task 10 puan olarak düşünülmüştür.
 - İlk sprint 80 diğer sprintler ise 100’er puan olarak değerlendirilmiştir.
 - Daily Scrum: Discord ve whatsapp üzerinden iletişim kurulmuştur.
-
-<img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/Ekran_goruntusu_2024-07-07_135753.png" width="400" height="400">  <img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/Ekran_goruntusu_2024-07-07_141842.png" width="400" height="400">
-
-<img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/12.png" width="600" height="400">  
-
+<table>
+  <tr>
+    <td><img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/Ekran_goruntusu_2024-07-07_135753.png" width="400" height="400"></td>
+    <td><img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/Ekran_goruntusu_2024-07-07_141842.png" width="400" height="400"></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/12.png" width="800" height="400"></td>
+  </tr>
+</table>
 <table> 
   <tr>
-    <td>  </td>
-    <td>  </td>
+    <td> <img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/Kayt_2024-07-07_0249292-ezgif.com-video-to-gif-converter.gif" width="400"></td>
+    <td> <img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/Kayt_2024-07-07_025427-ezgif.com-video-to-gif-converter.gif" width="400"></td>
   </tr> 
 </table>
 
