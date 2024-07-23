@@ -45,8 +45,12 @@ Scarey
 
 <img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/12.png" width="600" height="400">  
 
-![Üründen görseller](https://i.imgur.com/uENVERA.gif)  ![2](https://i.imgur.com/Q622Umg.gif) 
-
+<table> 
+  <tr>
+    <td>  </td>
+    <td>  </td>
+  </tr> 
+</table>
 
 ### Sprint Review
 - Oyun türü ve tasarımı hakkında oy birliği sağlanarak low poly, 3D paltform oyunu yapılmasına karar verilmiştir. Bu doğrultuda oyun mekanikleri, karakter ve sahne tasarımları üzerine çalışılmıştır.
