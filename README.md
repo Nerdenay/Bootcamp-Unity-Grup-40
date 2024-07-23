@@ -95,9 +95,9 @@ Takımı tasarımcılar ve geliştiriciler olarak böldük, ama mantığımız �
 ###### Oyundan Görseller: :framed_picture:
 <table>
   <tr>
-    <td><img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/main%20screen.png" style="width:500px;height:350px;"></td>
-    <td><img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/seh%C4%B1r%20tasar%C4%B1m%C4%B1.png" style="width:500px;height:350px;"></td>
-    <td><img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(357).png" style="width:500px;height:350px;"></td>
+    <td><img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/main%20screen.png" style="width:500px;height:300px;"></td>
+    <td><img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/seh%C4%B1r%20tasar%C4%B1m%C4%B1.png" style="width:500px;height:300px;"></td>
+    <td><img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(357).png" style="width:500px;height:300px;"></td>
   </tr>
 </table>
 
