@@ -7,11 +7,11 @@
 
 ## Ürün Bilgileri :memo:
 ### Takım Üyeleri 👥
-- ***Nebi Erdenay Çubukçu*** - Scrum Master
-- ***Nur Akgür*** - Product Owner
-- ***Mustafa Ersin Şişman*** - Developer 
-- ***Nazlı Melike Kurtoğlu*** - Developer
-- ***Muhammed Mustafa Öztekin*** - Developer
+- ***Nebi Erdenay Çubukçu*** - Scrum Master :bust_in_silhouette: :computer:
+- ***Nur Akgür*** - Product Owner :bust_in_silhouette: :computer:
+- ***Mustafa Ersin Şişman*** - Developer :computer:
+- ***Nazlı Melike Kurtoğlu*** - Developer :computer:
+- ***Muhammed Mustafa Öztekin*** - Developer :computer:
 
 #### Ürün İsmi :bulb:
 **Scarey**
