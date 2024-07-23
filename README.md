@@ -1,7 +1,7 @@
 ## Takım ismi 
 - CREW CROWS[Unity-40]
 - Takım logomuz: 
-<img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/tak%C4%B1m%20g%C3%B6rseli.png" style=width:250px;height:250px;>
+<img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/logo2.png" style=width:250px;height:250px;>
 
 ## Ürün Bilgileri
 #### Takım Üyeleri
@@ -61,12 +61,12 @@ Scarey
 ### Sprint Review
 - Oyun türü ve tasarımı hakkında oy birliği sağlanarak low poly, 3D paltform oyunu yapılmasına karar verilmiştir. Bu doğrultuda oyun mekanikleri, karakter ve sahne tasarımları üzerine çalışılmıştır.
 - Sprint Review Katılımcıları: Nebi Erdenay Çubukçu, Nur Akgür, Mustafa Ersin Şişman, Nazlı Melike Kurtoğlu, Muhammed Mustafa Öztekin
-- #### Sprint Retrospective:
+### Sprint Retrospective:
 - Herkes takımdaki rolünden memnundur, herhangi bir değişiklik yapılmamıştır.
 - Toplantılar daha düzenli hale getirilecektir. 
 
 ###### Toplantı örneği: 
-<img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/Ekran_Goruntusu_346.png" width="500" height="350">
+<img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/Ekran_Goruntusu_346.png" style=width:400px;height:400px;>
 
 
 ###### Sprint Notları: 
@@ -86,19 +86,23 @@ Takımı tasarımcılar ve geliştiriciler olarak böldük, ama mantığımız �
 
 ###### Sprint 2 Miro Update:
 
-<img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/M%C4%B1ro.png" style=width:400px;height:400px;>
+<img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/M%C4%B1ro.png" style=width:450px;height:400px;>
+<br>
 
 ###### Oyundan Görseller:
-<img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/main%20screen.png" style=width:350px;height:300px;> 
-<img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/seh%C4%B1r%20tasar%C4%B1m%C4%B1.png" style=width:350px;height:300px;>
-<img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(357).png" style=width:350px;height:300px;>
+<table>
+  <tr>
+    <td><img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/main%20screen.png" style="width:500px;height:350px;"></td>
+    <td><img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/seh%C4%B1r%20tasar%C4%B1m%C4%B1.png" style="width:500px;height:350px;"></td>
+    <td><img src="https://github.com/Nerdenay/Bootcamp-Unity-Grup-40/blob/main/Others/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(357).png" style="width:500px;height:350px;"></td>
+  </tr>
+</table>
 
-- Sprint Review:
+### Sprint Review:
   - Sprint 2 değerlendirildiğinde oyundaki bazı bölümlerin gözden geçirilmesi gerektiğine karar verilmiştir.
   - Mekanikler ve AI üzerine kararlar alınmıştır.
   - Sprint Review Katılımcıları: Nebi Erdenay Çubukçu, Nur Akgür, Mustafa Ersin Şişman, Nazlı Melike Kurtoğlu, Muhammed Mustafa Öztekin 
-
-- Sprint Retrospective: 
+### Sprint Retrospective: 
   - Sprint içinde toplanan puan 20 Design 50 Develop olmak üzere 70 puandır.[Bazı hedefler hala in progress aşamasına olduğu için 3.Sprinte ertelenmiştir.]
   - Bölüm tasarımlarının bazılarının değişmesi üzerine kararlar alınmıştır. 
   - Karakterin animasyonları ve mekanikleri entegre edilmek üzere hazırlanmıştır.
