@@ -38,9 +38,13 @@
 
 # SPRINT 1 :rocket:
 
-- Sprint için puan değerlendirmesi 80 olarak belirlenmiştir.
 - Sprint puanlama sistemi: Proje boyunca 280 puanın tamamlanması gerekmektedir. Her task 10 puan olarak düşünülmüştür.
-- İlk sprint 80 diğer sprintler ise 100’er puan olarak değerlendirilmiştir.
+  - İlk sprint 80 diğer sprintler ise 100’er puan olarak değerlendirilmiştir.
+
+- Sprint içinde tamamlanması düşünülen puan: 80 Puan
+  - Puan tamamlama mantığı:
+    - 20 puan Design görevleri ve 60 puan Develop görevleri olarak tasarlanmıştır.
+
 - Daily Scrum: Discord ve whatsapp üzerinden iletişim kurulmuştur.
 <table>
   <tr>
