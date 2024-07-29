@@ -345,11 +345,11 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.34f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.34f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/JMO Assets/Cartoon FX Remaster/CFXR Assets/Editor/CFXR_ExpressionParser.cs"
-"Assets/JMO Assets/Cartoon FX Remaster/CFXR Assets/Editor/CFXR_MaterialInspector.cs"
-"Assets/JMO Assets/Cartoon FX Remaster/CFXR Assets/Editor/CFXR_ShaderImporter.cs"
-"Assets/JMO Assets/Cartoon FX Remaster/CFXR Assets/Editor/CFXR_ShaderPostProcessor.cs"
-"Assets/JMO Assets/Cartoon FX Remaster/CFXR Assets/Editor/CFXR_Styles.cs"
+"Assets/Assetssss/JMO Assets/Cartoon FX Remaster/CFXR Assets/Editor/CFXR_ExpressionParser.cs"
+"Assets/Assetssss/JMO Assets/Cartoon FX Remaster/CFXR Assets/Editor/CFXR_MaterialInspector.cs"
+"Assets/Assetssss/JMO Assets/Cartoon FX Remaster/CFXR Assets/Editor/CFXR_ShaderImporter.cs"
+"Assets/Assetssss/JMO Assets/Cartoon FX Remaster/CFXR Assets/Editor/CFXR_ShaderPostProcessor.cs"
+"Assets/Assetssss/JMO Assets/Cartoon FX Remaster/CFXR Assets/Editor/CFXR_Styles.cs"
 -langversion:9.0
 /deterministic
 /optimize+
