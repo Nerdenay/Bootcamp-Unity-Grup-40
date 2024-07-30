@@ -363,6 +363,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.34f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/Input Manager.cs"
 "Assets/Scripts/PlayerControls.cs"
+"Assets/Scripts/PlayerLocation.cs"
 "Assets/VFX/Mirza Beig/Particle Systems/_Common/Scripts/AnimatedLight.cs"
 "Assets/VFX/Mirza Beig/Particle Systems/_Common/Scripts/CameraShake.cs"
 "Assets/VFX/Mirza Beig/Particle Systems/_Common/Scripts/_Demo/DemoManager.cs"
