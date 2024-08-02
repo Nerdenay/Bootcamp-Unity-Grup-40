@@ -132,9 +132,7 @@ Takımı tasarımcılar ve geliştiriciler olarak böldük, ama mantığımız �
 
 - Daily Scrum: Discord ve whatsapp üzerinden iletişim kurulmaya devam etmiştir. Ekip üyeleri hergün toplantı yapmıştır. Görev dağılımlarıyla herkes kendine uygun bir şekilde bir çalışma düzeni oluşturmuştur.
 
-###### Sprint 2 Miro Update: :chart_with_upwards_trend:
-
-<img >  
+###### Sprint 3 Miro Update: :chart_with_upwards_trend: 
 
 
 ### Sprint Review: :mag_right:
