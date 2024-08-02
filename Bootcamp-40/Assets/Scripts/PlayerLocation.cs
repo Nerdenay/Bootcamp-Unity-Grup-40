@@ -37,6 +37,7 @@ public class PlayerLocation : MonoBehaviour
         isGrounded = Physics.CheckSphere(groundCheck.position, groundDistance, groundMask);
         Debug.Log("Is Grounded: " + isGrounded);
         Debug.Log("Velocity Y: " + playerRB.velocity.y);
+        Debug.Log("Ground Check Position: " + groundCheck.position);
         if (isGrounded && playerRB.velocity.y < 0)
         {
             playerRB.velocity = new Vector3(playerRB.velocity.x, 0, playerRB.velocity.z);

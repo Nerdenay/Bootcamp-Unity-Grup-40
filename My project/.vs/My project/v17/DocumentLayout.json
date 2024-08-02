@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msi\\source\\repos\\Bootcamp\\Bootcamp-Unity-Grup-40\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\msi\\source\\repos\\bootcamp\\bootcamp-unity-grup-40\\my project\\assets\\scriptss\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptss\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\source\\repos\\Bootcamp\\Bootcamp-Unity-Grup-40\\My project\\Assets\\Scriptss\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptss\\Enemy.cs",
+              "ToolTip": "C:\\Users\\msi\\source\\repos\\Bootcamp\\Bootcamp-Unity-Grup-40\\My project\\Assets\\Scriptss\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scriptss\\Enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:01:46.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

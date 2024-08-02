@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "Assets/Sceness and B\xF6lgeler/alevliorman.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
