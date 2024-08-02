@@ -120,3 +120,32 @@ Takımı tasarımcılar ve geliştiriciler olarak böldük, ama mantığımız �
 ###### Sprint Notları: :clipboard:
 - Bu sprint sürecinde, ekip üyelerinin staj, KPSS ve benzeri durumlar nedeniyle yoğun olmaları sebebiyle çok verimli bir süreç geçmemiştir.
 - Görevler Miroya eklenmiştir oradaki ve eklenebilecek görevlere göre 3.Sprintte hepsinin tamamlanması için tüm ekip üyeleri hazırdır.
+
+
+<hr>
+
+# SPRINT 3 :rocket:
+
+- Sprint içinde tamamlanması düşünülen puan: 100 Puan
+  - Puan tamamlama mantığı:
+    - 30 puan Design görevleri ve 70 puan Develop görevleri olarak tasarlanmıştır.
+
+- Daily Scrum: Discord ve whatsapp üzerinden iletişim kurulmaya devam etmiştir. Ekip üyeleri hergün toplantı yapmıştır. Görev dağılımlarıyla herkes kendine uygun bir şekilde bir çalışma düzeni oluşturmuştur.
+
+###### Sprint 2 Miro Update: :chart_with_upwards_trend:
+
+<img >  
+
+
+### Sprint Review: :mag_right:
+  - Nerdeyse sadece 2 takım üyesi olarak devam edildiği istenen çoğu şey başarılamamıştır.
+  - Çoğu mekanik ve AI eksik kaldığı için bazı planda olmayan eklemelerle oyun çıkartılmıştır.
+  - Sprint Review Katılımcıları: Nebi Erdenay Çubukçu, Nur Akgür.
+ 
+### Sprint Retrospective: :recycle:
+  - Sprint içinde toplanan puan 20 Design 50 Develop olmak üzere 70 puandır.[Bazı hedefler hala in progress aşamasına olduğu için 3.Sprinte ertelenmiştir.]
+  - Eldeki tüm ürünler birleştirildi. 
+
+###### Sprint Notları: :clipboard:
+- Bu sprint sürecinde, sadece Nebi Erdenay Çubukçu ve Nur Akgür görev almıştır.
+- Başka arkadaşların yapması gereken şeyler yapılmadığı için oyun büyük eksikliklerle sunulmuştur.
